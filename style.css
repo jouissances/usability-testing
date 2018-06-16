@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Arimo');
+
+body {
+    font-family: 'Arimo';
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    line-height: 1.5rem;
+    padding: 2vh 5vw;
+}
+
+h1 {
+    font-size: 1.8rem;
+}
+
+h2 {
+    font-size: 1rem;
+    text-transform: uppercase;
+    display: inline;
+    padding: 2px 10px;
+    background-color: yellow;
+    border-radius: 15px;
+}
+
+h3 {
+    font-size: 1rem;
+}
+
+.quote {
+    border-left: 1px solid black;
+    padding-left: 2vw;
+    margin: 5vw;
+    font-style: italic;
+    line-height: 1.25rem;
+}
+
+section {
+    margin: 3vh 0;
+}
+
+.results {
+    background-color: #EDEDED;
+    margin: 10px 0;
+    padding: 5px 25px;
+    border-radius: 15px;
+}
+
+span {
+    border-bottom: 2px solid yellow;
+}
